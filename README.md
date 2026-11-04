@@ -1,4 +1,4 @@
-<h1 align="center">✅ Taskmaster Pro</h1>
+<h1 align="center">Taskmaster Pro</h1>
 
 <p align="center">A kanban-style task board with due dates, drag-and-drop and automatic saving.</p>
 
@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
 </p>
 
-<p align="center"><img src="docs/screenshot.png" alt="Taskmaster Pro showing a To Do list of tasks with due-date badges" width="850"></p>
+<p align="center"><a href="https://christiankrantz11.github.io/taskmaster-pro/"><strong>Live Demo</strong></a></p>
+
+<p align="center"><img src="docs/screenshot.png" alt="Taskmaster Pro board with To Do, In Progress, In Review and Done columns, with overdue and due-soon tasks highlighted" width="850"></p>
 
 ## Features
 
@@ -53,4 +55,4 @@ No build step is needed.
 
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
