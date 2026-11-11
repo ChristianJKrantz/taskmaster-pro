@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/taskmaster-pro/"><strong>Live Demo</strong></a></p>
+<p align="center"><a href="https://christianjkrantz.github.io/taskmaster-pro/"><strong>Live Demo</strong></a></p>
 
 <p align="center"><img src="docs/screenshot.png" alt="Taskmaster Pro board with To Do, In Progress, In Review and Done columns, with overdue and due-soon tasks highlighted" width="850"></p>
 
@@ -40,7 +40,7 @@ No build step is needed.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ChristianKrantz11/taskmaster-pro.git
+   git clone https://github.com/ChristianJKrantz/taskmaster-pro.git
    ```
 2. Open `index.html` in your browser.
 
@@ -55,4 +55,4 @@ No build step is needed.
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianJKrantz)
